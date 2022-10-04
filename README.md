@@ -23,4 +23,4 @@ To stop the service
           
  Step 4: Open the browser and type the ip address of your current system followed by :5000
  
- That't, Easy right????
+ That's, Easy right????
